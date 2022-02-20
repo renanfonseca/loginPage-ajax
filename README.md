@@ -9,7 +9,7 @@ A simple project made with html, css and javascript to train ajax loading with p
 </div>
 </br>
 
-How to run the application:
+## How to run the application:
 1. clone the repository
 2. install the Live Server extension on your vsconde
 3. start the live server
